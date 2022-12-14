@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>../../untitled3/Imagens/CincoErros.png</file>
+        <file>../../untitled3/Imagens/DoisErro.png</file>
+        <file>../../untitled3/Imagens/QuatroErros.png</file>
+        <file>../../untitled3/Imagens/SeisErros.png</file>
+        <file>../../untitled3/Imagens/TresErros.png</file>
+        <file>../../untitled3/Imagens/UmErro.png</file>
+        <file>../../untitled3/Imagens/ZeroErros.png</file>
+        <file>Lista/palavras.txt</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release/jogo_forca_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/jogo_forca",
+	"CMAKE_SOURCE_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/jogo_forca",
+	"INCLUDE_DIR" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release/jogo_forca_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/sergi/Desktop/QT/jogo_forca/jogo_forca/main.qml",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/CincoErros.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/TresErros.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/UmErro.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/QuatroErros.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/DoisErro.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/SeisErros.png",
+		"C:/Users/sergi/Desktop/QT/untitled3/Imagens/ZeroErros.png",
+		"C:/Users/sergi/Desktop/QT/jogo_forca/jogo_forca/Lista/palavras.txt"
+	],
+	"LOCK_FILE" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/jogo_forca_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/sergi/Desktop/QT/jogo_forca/build-jogo_forca-Desktop_Qt_5_15_2_MinGW_64_bit-Release/CMakeFiles/jogo_forca_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/sergi/Desktop/QT/jogo_forca/jogo_forca/qml.qrc",
+	"VERBOSITY" : 0
+}
